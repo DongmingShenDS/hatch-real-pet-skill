@@ -1,6 +1,6 @@
 {
-  "pet_id": "jinbao",
-  "display_name": "Jinbao",
+  "pet_id": "dbao",
+  "display_name": "DBAO",
   "description": "A realistic golden shaded short-haired cat with round green eyes, a plush golden-brown coat, cream muzzle and chest, small upright ears, and a fluffy tail.",
   "created_at": "2026-05-10T17:47:32.096385+00:00",
   "atlas": {
@@ -179,49 +179,49 @@
   ],
   "references": [
     {
-      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-01.jpg",
+      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-01.jpg",
       "width": 960,
       "height": 1280,
       "mode": "RGB",
       "format": "JPEG",
       "source_path": "/Users/shendongming/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/aa8bdbec991ab69feecbbf428c7ae3d6/Message/MessageTemp/aa8bdbec991ab69feecbbf428c7ae3d6/Image/1101778431782_.pic.jpg",
-      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-01.jpg"
+      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-01.jpg"
     },
     {
-      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-02.jpg",
+      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-02.jpg",
       "width": 810,
       "height": 1080,
       "mode": "RGB",
       "format": "JPEG",
       "source_path": "/Users/shendongming/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/aa8bdbec991ab69feecbbf428c7ae3d6/Message/MessageTemp/aa8bdbec991ab69feecbbf428c7ae3d6/Image/1061778431774_.pic.jpg",
-      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-02.jpg"
+      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-02.jpg"
     },
     {
-      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-03.jpg",
+      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-03.jpg",
       "width": 1280,
       "height": 1707,
       "mode": "RGB",
       "format": "JPEG",
       "source_path": "/Users/shendongming/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/aa8bdbec991ab69feecbbf428c7ae3d6/Message/MessageTemp/aa8bdbec991ab69feecbbf428c7ae3d6/Image/1091778431780_.pic.jpg",
-      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-03.jpg"
+      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-03.jpg"
     },
     {
-      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-04.jpg",
+      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-04.jpg",
       "width": 1076,
       "height": 1436,
       "mode": "RGB",
       "format": "JPEG",
       "source_path": "/Users/shendongming/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/aa8bdbec991ab69feecbbf428c7ae3d6/Message/MessageTemp/aa8bdbec991ab69feecbbf428c7ae3d6/Image/1071778431775_.pic.jpg",
-      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-04.jpg"
+      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-04.jpg"
     },
     {
-      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-05.jpg",
+      "path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-05.jpg",
       "width": 1280,
       "height": 1707,
       "mode": "RGB",
       "format": "JPEG",
       "source_path": "/Users/shendongming/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/aa8bdbec991ab69feecbbf428c7ae3d6/Message/MessageTemp/aa8bdbec991ab69feecbbf428c7ae3d6/Image/1081778431779_.pic.jpg",
-      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/references/reference-05.jpg"
+      "copied_path": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/references/reference-05.jpg"
     }
   ],
   "chroma_key": {

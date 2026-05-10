@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_at": "2026-05-10T17:47:32.098605+00:00",
-  "run_dir": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao",
+  "run_dir": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao",
   "primary_generation_skill": "$imagegen",
   "jobs": [
     {
@@ -265,7 +265,7 @@
       "mirror_decision": {
         "approved": true,
         "approved_at": "2026-05-10T18:00:47.940085+00:00",
-        "note": "Jinbao has no collar, text, logo, handed prop, or clearly side-specific marking; the golden shading and tabby tail bands remain identity-faithful when mirrored for leftward locomotion."
+        "note": "DBAO has no collar, text, logo, handed prop, or clearly side-specific marking; the golden shading and tabby tail bands remain identity-faithful when mirrored for leftward locomotion."
       }
     },
     {

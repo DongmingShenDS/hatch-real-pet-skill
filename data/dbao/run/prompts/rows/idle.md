@@ -1,9 +1,9 @@
-Create a single horizontal realistic cutout sprite strip for the Codex app real pet `jinbao` in the state `review`.
+Create a single horizontal realistic cutout sprite strip for the Codex app real pet `dbao` in the state `idle`.
 
 Use the attached reference image(s) for real pet identity and the attached base pet image as the canonical design. Use the attached layout guide image only for frame count, slot spacing, centering, and safe padding. Preserve realistic reference details enough for the pet to remain the same individual at 192x208. Do not simply copy the still reference pose. Generate distinct natural animation poses that create a readable cycle.
 
 Identity lock:
-- Do not redesign the pet. Only change pose/action for the `review` animation.
+- Do not redesign the pet. Only change pose/action for the `idle` animation.
 - Preserve the exact head shape, ear/horn/limb shape, face, markings, realistic colors, fur/skin/feather/material texture, body proportions, accessory placement, and overall silhouette from the canonical base pet.
 - Keep every frame recognizably the same individual pet, not a related variant.
 - If the pet has a prop or accessory, preserve its size, side, realistic colors, and attachment style unless the row action requires a small pose-only adjustment.
@@ -15,12 +15,16 @@ Style contract: Real Codex pet cutout style: realistic reference-faithful full-b
 
 Use this prompt as an authoritative realistic pet animation spec. Do not convert the pet into pixel art, a cartoon mascot, chibi, anime character, toy-like 3D render, vector logo, sticker, generic stock animal, glossy app icon, or standalone animal portrait.
 
-Animation action: focused inspecting or review loop.
+Animation action: neutral breathing/blinking loop.
 
 
 State-specific requirements:
-- Show review through lean, blink, narrowed eyes, head tilt, or paw position.
-- Do not add magnifying glasses, papers, code, UI, punctuation, symbols, or other new props unless they already exist in the base pet identity.
+- CRITICAL: idle is the low-distraction baseline state and the first frame is also used as the reduced-motion static pet.
+- Use only subtle idle motion: gentle breathing, a tiny blink, a slight head or body bob, a very small material sway, or another quiet motion that fits the pet persona.
+- Keep the pet essentially in the same pose, facing direction, silhouette, markings, realistic colors, and prop state across all 6 frames.
+- Do not show waving, walking, running, jumping, talking, working, reviewing, emotional reactions, large gestures, item interactions, or new props.
+- Feet, base, body, or object anchor should remain planted or nearly planted.
+- The first and last frames should be very close visually so the loop feels calm and does not pop.
 
 Transparency and artifact rules:
 - Prefer pose, expression, and silhouette changes over decorative effects.

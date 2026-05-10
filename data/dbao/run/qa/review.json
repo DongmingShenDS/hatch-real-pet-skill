@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames",
+  "frames_root": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames",
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,7 +15,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/idle/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17761,
@@ -30,7 +30,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/idle/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17169,
@@ -45,7 +45,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/idle/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17046,
@@ -60,7 +60,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/idle/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17499,
@@ -75,7 +75,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/idle/04.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16962,
@@ -90,7 +90,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/idle/05.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17023,
@@ -116,7 +116,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-right/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-right/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 11030,
@@ -131,7 +131,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-right/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-right/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 10970,
@@ -146,7 +146,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-right/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-right/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 10694,
@@ -161,7 +161,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-right/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-right/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 9284,
@@ -176,7 +176,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-right/04.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-right/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13235,
@@ -191,7 +191,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-right/05.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-right/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14025,
@@ -206,7 +206,7 @@
         },
         {
           "index": 6,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-right/06.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-right/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13094,
@@ -221,7 +221,7 @@
         },
         {
           "index": 7,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-right/07.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-right/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14516,
@@ -247,7 +247,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-left/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14516,
@@ -262,7 +262,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-left/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13094,
@@ -277,7 +277,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-left/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14025,
@@ -292,7 +292,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-left/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13235,
@@ -307,7 +307,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-left/04.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 9284,
@@ -322,7 +322,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-left/05.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 10694,
@@ -337,7 +337,7 @@
         },
         {
           "index": 6,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-left/06.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 10970,
@@ -352,7 +352,7 @@
         },
         {
           "index": 7,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running-left/07.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 11030,
@@ -378,7 +378,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waving/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18062,
@@ -393,7 +393,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waving/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17294,
@@ -408,7 +408,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waving/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18067,
@@ -423,7 +423,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waving/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17361,
@@ -449,7 +449,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/jumping/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22621,
@@ -464,7 +464,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/jumping/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19866,
@@ -479,7 +479,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/jumping/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23440,
@@ -494,7 +494,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/jumping/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14240,
@@ -509,7 +509,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/jumping/04.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18438,
@@ -535,7 +535,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/failed/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/failed/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19603,
@@ -550,7 +550,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/failed/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/failed/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21207,
@@ -565,7 +565,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/failed/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/failed/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 24355,
@@ -580,7 +580,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/failed/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/failed/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22491,
@@ -595,7 +595,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/failed/04.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/failed/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21222,
@@ -610,7 +610,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/failed/05.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/failed/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 24663,
@@ -625,7 +625,7 @@
         },
         {
           "index": 6,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/failed/06.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/failed/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26785,
@@ -640,7 +640,7 @@
         },
         {
           "index": 7,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/failed/07.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/failed/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26461,
@@ -666,7 +666,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waiting/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waiting/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18968,
@@ -681,7 +681,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waiting/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waiting/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17468,
@@ -696,7 +696,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waiting/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waiting/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18174,
@@ -711,7 +711,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waiting/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waiting/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17294,
@@ -726,7 +726,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waiting/04.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waiting/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20198,
@@ -741,7 +741,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/waiting/05.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/waiting/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18143,
@@ -767,7 +767,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21005,
@@ -782,7 +782,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22013,
@@ -797,7 +797,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26479,
@@ -812,7 +812,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22367,
@@ -827,7 +827,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running/04.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17363,
@@ -842,7 +842,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/running/05.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/running/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20238,
@@ -868,7 +868,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/review/00.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/review/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20600,
@@ -883,7 +883,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/review/01.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/review/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21377,
@@ -898,7 +898,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/review/02.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/review/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20040,
@@ -913,7 +913,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/review/03.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/review/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20471,
@@ -928,7 +928,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/review/04.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/review/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17374,
@@ -943,7 +943,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao/frames/review/05.png",
+          "file": "/Users/shendongming/BosonAI/Code/codex-pet-runs/dbao/frames/review/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17760,

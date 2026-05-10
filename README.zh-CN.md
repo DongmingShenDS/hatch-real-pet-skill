@@ -7,12 +7,14 @@
 这个 repo 包含：
 
 - `skills/hatch-real-pet/`：Codex skill 本体。
-- `pets/jinbao/`：可以直接导入 Codex 的 Jinbao demo pet。
-- `data/jinbao/`：Jinbao 的原图、生成过程文件和 QA 文件，方便学习和传播。
+- `pets/dbao/`：可以直接导入 Codex 的 DBAO demo pet。
+- `data/dbao/`：DBAO 的原图、生成过程文件和 QA 文件，方便学习和传播。
 
-![Jinbao 原图](data/jinbao/original/reference-01.jpg)
+名字说明：早期内部生成时这个 demo 可能叫过 `jinbao`。公开 repo 里统一使用猫的真实名字 `DBAO`，避免大家混淆。Codex pet id 和目录名用小写 `dbao`，界面显示名是 `DBAO`。
 
-![Jinbao QA contact sheet](data/jinbao/run/qa/contact-sheet.png)
+![DBAO 原图](data/dbao/original/reference-01.jpg)
+
+![DBAO QA contact sheet](data/dbao/run/qa/contact-sheet.png)
 
 ## 安装 Skill
 
@@ -46,16 +48,16 @@ ${CODEX_HOME:-$HOME/.codex}/pets/<pet-name>/
   spritesheet.webp
 ```
 
-## 直接导入 Jinbao 测试
+## 直接导入 DBAO 测试
 
 在 repo 根目录运行：
 
 ```bash
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/pets"
-cp -R pets/jinbao "${CODEX_HOME:-$HOME/.codex}/pets/"
+cp -R pets/dbao "${CODEX_HOME:-$HOME/.codex}/pets/"
 ```
 
-然后重启 Codex，或者刷新 custom pets。`pets/jinbao/` 里面已经是 Codex 需要的最终结构：
+然后重启 Codex，或者刷新 custom pets。`pets/dbao/` 里面已经是 Codex 需要的最终结构：
 
 ```text
 pet.json
@@ -74,11 +76,11 @@ spritesheet.webp
 
 ## Demo 文件说明
 
-- `pets/jinbao/`：最简单的直接导入目录。
-- `data/jinbao/original/reference-01.jpg`：一张 Jinbao 原图。
-- `data/jinbao/run/qa/contact-sheet.png`：最直观的 QA 总览图。
-- `data/jinbao/run/qa/videos/`：每个动作状态的预览视频。
-- `data/jinbao/run/prompts/`：demo 生成时用到的 prompts。
-- `data/jinbao/run/final/spritesheet.webp`：最终 atlas。
+- `pets/dbao/`：最简单的直接导入目录。
+- `data/dbao/original/reference-01.jpg`：一张 DBAO 原图。
+- `data/dbao/run/qa/contact-sheet.png`：最直观的 QA 总览图。
+- `data/dbao/run/qa/videos/`：每个动作状态的预览视频。
+- `data/dbao/run/prompts/`：demo 生成时用到的 prompts。
+- `data/dbao/run/final/spritesheet.webp`：最终 atlas。
 
-Jinbao 生成时用过更多私人参考图。这个 repo 只放了一张原图，以及生成后的 demo 文件。
+DBAO 生成时用过更多私人参考图。这个 repo 只放了一张原图，以及生成后的 demo 文件。
