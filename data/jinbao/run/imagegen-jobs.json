@@ -1,0 +1,685 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-05-10T17:47:32.098605+00:00",
+  "run_dir": "/Users/shendongming/BosonAI/Code/codex-pet-runs/jinbao",
+  "primary_generation_skill": "$imagegen",
+  "jobs": [
+    {
+      "id": "base",
+      "kind": "base-pet",
+      "status": "complete",
+      "prompt_file": "prompts/base-pet.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        }
+      ],
+      "output_path": "decoded/base.png",
+      "depends_on": [],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e12fe-6564-7300-b75f-7f484b48e570/ig_0d63379be4e34f77016a00c4d65a748191896c2fd8fe8a18ce.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "09288b1a376a168ae8b98731af037214aa3e1a42043afab92da6030a7c62791c",
+      "output_sha256": "09288b1a376a168ae8b98731af037214aa3e1a42043afab92da6030a7c62791c",
+      "completed_at": "2026-05-10T17:51:44.768415+00:00",
+      "metadata": {
+        "width": 1203,
+        "height": 1307,
+        "mode": "RGB",
+        "format": "PNG"
+      },
+      "canonical_reference_path": "references/canonical-base.png"
+    },
+    {
+      "id": "idle",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/idle.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/idle.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/idle.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e1304-cf93-7bb1-b9e5-5b18a1c2be49/ig_0f8249dab816bddd016a00c767bb2c8191aac4a6e9ec08c862.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "80408a9a5127158a65e45ade1481dea49bfb2978a514d34b973002e67b515d9a",
+      "output_sha256": "80408a9a5127158a65e45ade1481dea49bfb2978a514d34b973002e67b515d9a",
+      "completed_at": "2026-05-10T18:03:08.189689+00:00",
+      "metadata": {
+        "width": 1670,
+        "height": 941,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "running-right",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-right.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-right.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/running-right.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e1304-d02a-78f0-a887-0cad8f938d6d/ig_0dd89fa5fe476b42016a00c6b06ca081919af89d402fe2763a.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "a57f2817446f364dbc42e95ffdac9805254969163c452fda32bcf2e9b4c347b5",
+      "output_sha256": "a57f2817446f364dbc42e95ffdac9805254969163c452fda32bcf2e9b4c347b5",
+      "completed_at": "2026-05-10T18:00:34.985585+00:00",
+      "metadata": {
+        "width": 1862,
+        "height": 845,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "running-left",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-left.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-left.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        },
+        {
+          "path": "decoded/running-right.png",
+          "role": "rightward gait reference for leftward row decision"
+        }
+      ],
+      "output_path": "decoded/running-left.png",
+      "depends_on": [
+        "base",
+        "running-right"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base",
+        "running-right"
+      ],
+      "mirror_policy": {
+        "may_derive_from": "running-right",
+        "derivation": "horizontal-mirror",
+        "requires_explicit_approval": true,
+        "fallback_generation_skill": "$imagegen"
+      },
+      "recording_owner": "parent",
+      "source_path": "decoded/running-right.png",
+      "source_provenance": "deterministic-mirror",
+      "derived_from": "running-right",
+      "source_sha256": "a57f2817446f364dbc42e95ffdac9805254969163c452fda32bcf2e9b4c347b5",
+      "output_sha256": "dddd85e0ecbb7f6ba3843aa909eaf29732a3a7a6dc35efe9440c76df29aad96e",
+      "completed_at": "2026-05-10T18:00:47.940085+00:00",
+      "metadata": {
+        "width": 1862,
+        "height": 845,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "mirror_decision": {
+        "approved": true,
+        "approved_at": "2026-05-10T18:00:47.940085+00:00",
+        "note": "Jinbao has no collar, text, logo, handed prop, or clearly side-specific marking; the golden shading and tabby tail bands remain identity-faithful when mirrored for leftward locomotion."
+      }
+    },
+    {
+      "id": "waving",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waving.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waving.png",
+          "role": "layout guide for 4 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/waving.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e130f-d920-7aa0-93f5-2ae86b340c78/ig_0197077a4dc459ce016a00cac1a1ec8191b59810379fce1b8b.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "0659387b2392cb3609d70025f45f004f4eda79dad62d432acd7bdbc979b6135d",
+      "output_sha256": "0659387b2392cb3609d70025f45f004f4eda79dad62d432acd7bdbc979b6135d",
+      "completed_at": "2026-05-10T18:16:27.302302+00:00",
+      "metadata": {
+        "width": 1706,
+        "height": 922,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "jumping",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/jumping.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/jumping.png",
+          "role": "layout guide for 5 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/jumping.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e130f-d99f-7fb2-914e-6ea9c76c67ac/ig_046b32114ad54a71016a00ca30c9d4819187d936040588d2b2.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "d6edec5dde3c16029412460bb71549cb2cde8a97edc32b0e5449e5f45a117e35",
+      "output_sha256": "d6edec5dde3c16029412460bb71549cb2cde8a97edc32b0e5449e5f45a117e35",
+      "completed_at": "2026-05-10T18:15:50.839688+00:00",
+      "metadata": {
+        "width": 1774,
+        "height": 887,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "failed",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/failed.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/failed.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/failed.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e130f-d9e3-71e2-98e0-b56eb9ed5127/ig_043850f02819c1fc016a00caa636a88191b5e49fe06552fbc0.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "0a17ebd4996995da83f67e92342302097b0cad677131db5c58551ca138ce759b",
+      "output_sha256": "0a17ebd4996995da83f67e92342302097b0cad677131db5c58551ca138ce759b",
+      "completed_at": "2026-05-10T18:16:09.295164+00:00",
+      "metadata": {
+        "width": 1983,
+        "height": 793,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "waiting",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waiting.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waiting.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/waiting.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e130f-da14-7bc3-95e9-1cc27c91eae5/ig_06c323f115c78d3a016a00caefc2dc8191ade97e1c30e04a05.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "b7abe443586f1b1c15138c39f9e2f1a7d6d2f7257d716fe7db2db6088bdcfb86",
+      "output_sha256": "b7abe443586f1b1c15138c39f9e2f1a7d6d2f7257d716fe7db2db6088bdcfb86",
+      "completed_at": "2026-05-10T18:17:04.477244+00:00",
+      "metadata": {
+        "width": 2172,
+        "height": 724,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "running",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/running.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e1310-82df-71e3-a04c-79d3cfe6ed7f/ig_0fef9857168fc4d7016a00ca6bcd24819186e6b21aef58cfc8.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "361fb6f04eeda53acfbb85d1a15357d50577e8585c81a3df0e19407e66ffbd73",
+      "output_sha256": "361fb6f04eeda53acfbb85d1a15357d50577e8585c81a3df0e19407e66ffbd73",
+      "completed_at": "2026-05-10T18:14:48.392866+00:00",
+      "metadata": {
+        "width": 1923,
+        "height": 818,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "review",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/review.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/review.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/review.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "/Users/shendongming/.codex/generated_images/019e1310-832b-7723-9245-c196ce3d420a/ig_06c2b8e105a83369016a00ca0ad5a48191a8f54885d1758d41.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "5cb15d2c9b8e1e821473702ab60ea51113f322e668541fa2a2621df2e8d9e15d",
+      "output_sha256": "5cb15d2c9b8e1e821473702ab60ea51113f322e668541fa2a2621df2e8d9e15d",
+      "completed_at": "2026-05-10T18:13:37.189146+00:00",
+      "metadata": {
+        "width": 2172,
+        "height": 724,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    }
+  ],
+  "canonical_identity_reference": {
+    "path": "references/canonical-base.png",
+    "source_job": "base",
+    "sha256": "09288b1a376a168ae8b98731af037214aa3e1a42043afab92da6030a7c62791c",
+    "metadata": {
+      "width": 1203,
+      "height": 1307,
+      "mode": "RGB",
+      "format": "PNG"
+    }
+  }
+}

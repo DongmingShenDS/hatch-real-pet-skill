@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hatch Real Pet"
+  short_description: "Hatch realistic Codex pets from reference images"
+  default_prompt: "Use $hatch-real-pet to create a realistic non-pixel Codex pet from my reference images, generate grounded animation rows with $imagegen, validate the atlas, and package it under the Codex custom pets folder."
